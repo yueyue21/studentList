@@ -9,7 +9,7 @@ You can use your own mongo db locally by modifiying the uri at /config/db.js
 
 git clone git@github.com:yueyue21/studentList.git
 
-cd studnetListing
+cd studnetList
 
 npm install
 
